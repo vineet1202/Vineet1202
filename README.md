@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
   
-- 👀 My porfolio website https://portfolio-website-bice-omega-49.vercel.app/
+
   
 - 📫 How to reach me **vineetloktak@gmail.com**
 
@@ -20,4 +20,5 @@
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me: vineetloktak@gmail.com
+- 👀 My porfolio website https://portfolio-website-bice-omega-49.vercel.app/
 -->
