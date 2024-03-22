@@ -1,10 +1,10 @@
 - 👋 Hi, I'm Vineet Sirohi
 
-- 🌱 I’m currently learning **NodeJs**
+
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
   
-- 👀 I’m interested in Web ML
+- 👀 My porfolio website https://portfolio-website-bice-omega-49.vercel.app/
   
 - 📫 How to reach me **vineetloktak@gmail.com**
 
