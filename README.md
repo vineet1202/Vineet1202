@@ -2,9 +2,12 @@
 
 
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
-  
+- 🌱 I’m a Full Stack Developer and I love building things.
 
+- 🌱 Currently I am looking for opportunities to grow and learn new things.
+- 🌱 Also trying to learn more about Backend Technologies.
+  
+ 👀 My porfolio website https://vineet-siorhi.vercel.app/
   
 - 📫 How to reach me **vineetloktak@gmail.com**
 
@@ -20,5 +23,5 @@
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me: vineetloktak@gmail.com
-- 👀 My porfolio website https://portfolio-website-bice-omega-49.vercel.app/
+- 👀 My porfolio website https://vineet-siorhi.vercel.app/
 -->
