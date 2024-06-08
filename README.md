@@ -7,7 +7,7 @@
  🌱 Currently I am looking for opportunities to grow and learn new things.
  🌱 Also trying to learn more about Backend Technologies.
   
- 👀 My porfolio website https://vineet-siorhi.vercel.app/
+ 👀 My porfolio website https://vineet-sirohi.vercel.app/
   
  📫 How to reach me **vineetloktak@gmail.com**
 
