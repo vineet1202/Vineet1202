@@ -1,39 +1,35 @@
 # Hi, I'm Vineet 👋
 
-Backend-focused Software Engineer with experience in **Java** and **Spring Boot**, building scalable REST APIs and data-driven applications.
+Backend-focused Software Engineer with experience in **Java, Spring Boot, REST APIs, and PostgreSQL**, building backend systems and data-driven applications.
+
+Currently exploring **AI/ML and Generative AI**, with a focus on integrating LLMs and AI capabilities into practical software applications.
 
 ## 🚀 What I Do
-- Build and deploy scalable backend systems using Java, Spring Boot, REST APIs, relational databases (PostgreSQL/MySQL), and AWS.
 
-- Focus on clean architecture, performance, and strong problem-solving through algorithmic thinking. 
+* Build backend applications using Java, Spring Boot, REST APIs, relational databases, and AWS.
+* Explore **Generative AI, LLM APIs, RAG, and AI-powered application development**.
+* Solve algorithmic problems and continuously strengthen my software engineering fundamentals.
 
 ## 🛠 Tech Stack
-**Languages:** Java, Python  
-**Backend:** Spring Boot, REST APIs, Spring Data JPA, Spring Batch  
-**Databases:** PostgreSQL, MySQL, SQL  
-**Frontend:** React, JavaScript  
-**Cloud & Tools:** AWS, Docker, Git, GitHub  
+
+* **Languages:** Java, Python
+* **Backend:** Spring Boot, REST APIs, Spring Data JPA
+* **Databases:** PostgreSQL, MySQL, SQL
+* **Frontend:** React, JavaScript, Streamlit
+* **AI/GenAI:** LLM APIs, LangChain, RAG
+* **Cloud & Tools:** AWS, Docker, Git, GitHub
 
 ## 📌 Featured Projects
-- **IPL Dashboard** – Backend-heavy analytics application using Spring Boot, Spring Batch, PostgreSQL, and AWS  
-- **Quiz Application** – REST-based quiz management system with normalized DB design and React integration  
+
+### 🤖 AI PR Reviewer
+
+An AI-powered code review application built with **Spring Boot, React, PostgreSQL, GitHub OAuth, and Gemini**. It analyzes GitHub pull requests and generates structured AI-powered code review feedback.
+
+### 🍽️ Restaurant Name Generator
+
+A simple **Generative AI application built with Python, LangChain, and Streamlit** that generates restaurant names and menu ideas based on cuisine type. Built as a hands-on project while learning LLM application development.
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/vineet  
-- Email: vineetloktak@gmail.com  
 
-
-
-
-
-
-
-
-<!--
-**vineet1202/Vineet1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on MERN stack projects
-- 📫 How to reach me: vineetloktak@gmail.com
-- 👀 My porfolio website https://vineet-siorhi.vercel.app/
--->
+* LinkedIn: https://linkedin.com/in/vineet
+* Email: [vineetloktak@gmail.com](mailto:vineetloktak@gmail.com)
