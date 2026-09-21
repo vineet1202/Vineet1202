@@ -1,6 +1,6 @@
 # Hi, I'm Vineet 👋
 
-Backend-focused Software Engineer with experience in **Java, Spring Boot, REST APIs, and PostgreSQL**, building backend systems and data-driven applications.
+Full Stack Software Engineer with experience in **Java, Spring Boot, React, Typescript, REST APIs, and PostgreSQL**, building backend systems and data-driven applications.
 
 Currently exploring **AI/ML and Generative AI**, with a focus on integrating LLMs and AI capabilities into practical software applications.
 
