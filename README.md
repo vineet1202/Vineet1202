@@ -1,12 +1,8 @@
 # Hi, I'm Vineet 👋
 
-Full Stack Software Engineer with experience in **Java, Spring Boot, React, Typescript, REST APIs, and PostgreSQL**, building backend systems and data-driven applications.
-
-Currently exploring **AI/ML and Generative AI**, with a focus on integrating LLMs and AI capabilities into practical software applications.
-
 ## 🚀 What I Do
 
-* Build backend applications using Java, Spring Boot, REST APIs, relational databases, and AWS.
+* Build backend applications using Java, Spring Boot, React, Typescript, REST APIs, relational databases, and AWS.
 * Explore **Generative AI, LLM APIs, RAG, and AI-powered application development**.
 * Solve algorithmic problems and continuously strengthen my software engineering fundamentals.
 
@@ -25,9 +21,10 @@ Currently exploring **AI/ML and Generative AI**, with a focus on integrating LLM
 
 An AI-powered code review application built with **Spring Boot, React, PostgreSQL, GitHub OAuth, and Gemini**. It analyzes GitHub pull requests and generates structured AI-powered code review feedback.
 
-### 🍽️ Restaurant Name Generator
+### 📰 News Research Tool
 
-A simple **Generative AI application built with Python, LangChain, and Streamlit** that generates restaurant names and menu ideas based on cuisine type. Built as a hands-on project while learning LLM application development.
+A **RAG-based Generative AI application built with Python, LangChain, and Streamlit** that extracts content from user-provided URLs and answers questions using relevant retrieved information. Built to explore **LLM application development, embeddings, vector search, and Retrieval-Augmented Generation (RAG)**.
+
 
 ## 📫 Connect With Me
 
